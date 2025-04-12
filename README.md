@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Weather App
+A simple Flutter weather application that displays real-time weather information including temperature, cloud condition, wind speed, and humidity for a selected city.
+Features:-
+Search for weather in any city
+Real-time weather updates using an API
 
-A few resources to get you started if this is your first Flutter project:
+Displays:
+City name and current time
+Weather condition (e.g. broken clouds)
+Temperature (current, max, min)
+Wind speed
+Humidity
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
